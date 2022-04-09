@@ -7,6 +7,6 @@ This repo contains the following:
 - `Kiosk Multiplexer Schematic.pdf` - Schematic of the electronics in PDF form.  The original KiCad files may be added later.
 - `KioskPre1982.asm` - Disassembly of the ROM with comments
 
-To see a video regarding the research for the Intellivision Kiosk Multiplexer, see ![https://www.youtube.com/watch?v=3vMPc39v13g](https://www.youtube.com/watch?v=3vMPc39v13g)
+To see a video regarding the research for the Intellivision Kiosk Multiplexer, see [https://www.youtube.com/watch?v=3vMPc39v13g](https://www.youtube.com/watch?v=3vMPc39v13g)
 
 ![image of an Intellivision Kiosk Multiplexer](/Intellivision%20Kiosk%20Multiplexer.jpg)
